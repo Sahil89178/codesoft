@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(228, 220, 228);
+    background-image: url(./AC\ DC\ _\ JIM\ KEATON.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    backdrop-filter: brightness(80%);
+    background-position-x:center;
+}p{
+    text-align:center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: rgb(22, 34, 14);
+    text-align:center;
+}
